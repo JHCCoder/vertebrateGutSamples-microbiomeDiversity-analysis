@@ -1,0 +1,2 @@
+SAMEA6809356	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Equus-caballus_SAMEA6809356.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809357	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Equus-hemionus_SAMEA6809357.ebi_filtered_r1r2interleaved_sampleCombined.fa

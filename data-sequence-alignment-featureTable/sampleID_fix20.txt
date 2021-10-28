@@ -1,0 +1,7 @@
+SAMEA6809635	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Abramis-brama_SAMEA6809635.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809490	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Acanthiza-uropygialis_SAMEA6809490.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809366	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Accipiter-nisus_SAMEA6809366.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809563	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Acrocephalus-scirpaceus_SAMEA6809563.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809571	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Aepyceros-melampus_SAMEA6809571.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809573	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Aepyceros-melampus_SAMEA6809573.ebi_filtered_r1r2interleaved_sampleCombined.fa
+SAMEA6809501	/panfs/panfs1.ucsd.edu/panscratch/jhc103/microbiome-analysis/00-seq-files-fa/Alburnus-alburnus_SAMEA6809501.ebi_filtered_r1r2interleaved_sampleCombined.fa
